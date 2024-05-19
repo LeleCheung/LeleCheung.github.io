@@ -1,26 +1,26 @@
-title: Huasen Xi
-# tagline: Here is personal website of Huasen Xi. Powered by Jekyll, based on the Minimal Mistakes theme.
+title: Hanle Zhang
+# tagline: Here is personal website of Hanle Zhang. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://atopos666.github.io
+url: https://lelecheung.github.io
 
 # Owner/author information
 owner:
-  name: Huasen Xi
+  name: Hanle Zhang
   avatar: portrait.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: huasenxi@mails.ucas.ac.cn
-  cv: https://atopos666.github.io/file/CV-HuasenXi.pdf
+  email: zhanghanle21@mails.ucas.ac.cn
+  cv: https://lelecheung.github.io/file/CV-HanleZhang.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
-  github: Atopos666
-  # linkedin: huasenxi
+  github: lelecheung
+  # linkedin: HanleZhang
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # bilibili: 594030035
+  bilibili: https://space.bilibili.com/397683389
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   # zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
-  # instagram: lancecai2002
+  instagram: hanlezhang
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -79,9 +79,9 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: hanlezhang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/10 by Hanlin Cai.
+# Latest update in 2024 by Hanle Zhang.
