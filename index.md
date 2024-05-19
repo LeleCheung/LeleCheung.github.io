@@ -5,9 +5,7 @@ layout: page
 # About Me
 
 
-Here is **Hanle Zhang (Peter, 张韩乐)**.
-
-I am a junior undergrad majoring in Computer Science at University of Chinese Academy of Science. Currently, I am an exchange student at the University of California, Berkeley. 
+Here is **Hanle Zhang (Peter, 张韩乐)**. I am a junior undergrad majoring in Computer Science at University of Chinese Academy of Science. Currently, I am an exchange student at the University of California, Berkeley. 
 
 If you are interested in me, please email me at - *zhanghanle21@mails.ucas.ac.cn*
 
