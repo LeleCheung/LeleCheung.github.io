@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/cs184_milestone/index.html
-title: Milestone for cs184_final_project
+permalink: /blogs/index.html
+title: To Be Continued
 ---
 
 > To Be Continued
