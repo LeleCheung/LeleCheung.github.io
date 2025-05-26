@@ -13,7 +13,7 @@ Currently, I'm working on the research of LLM DSA (Domain Specific Architecture 
 ## Educational Background
 
 - **Jan 2024 - May 2024:** UC Berkeley (GPA: 4.0/4.0)
-- **Sep 2021 - July 2025 (expected):** UCAS (GPA: 3.95/4.0)
+- **Sep 2021 - July 2025:** UCAS (GPA: 3.95/4.0)
 
 ## Academic Interest
 
