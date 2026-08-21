@@ -1,11 +1,12 @@
-/* Preserve the full portrait instead of forcing a circular crop. */
+/* Display the portrait as a vertical oval without distortion. */
 .article-author-top img.bio-photo,
 .article-author-bottom img.bio-photo {
   display: block;
   width: 100px;
   max-width: 100%;
-  height: auto;
-  -webkit-border-radius: 0;
-  -moz-border-radius: 0;
-  border-radius: 0;
+  height: 145px;
+  object-fit: cover;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
 }
