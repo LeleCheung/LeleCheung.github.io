@@ -1,2 +1,5 @@
-Here is **Hanle Zhang(Peter, 张韩乐)**. This is my personal homepage. Welcome!
+# Hanle Zhang
 
+Source for [lelecheung.github.io](https://lelecheung.github.io), the personal academic website of Hanle Zhang.
+
+The site is generated and deployed by GitHub Pages. The homepage content lives in `index.md`, the site configuration lives in `_config.yml`, and the current CV is available at `file/CV_HanleZhang.pdf`.
