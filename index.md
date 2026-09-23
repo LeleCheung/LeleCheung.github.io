@@ -8,7 +8,7 @@ layout: page
 
 I am **Hanle Zhang (Peter)**, a PhD student in Computer Architecture at the [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/), advised by [Prof. Yungang Bao](http://english.ict.cas.cn/people/scien/bln/202303/t20230321_328543.html). My research interests include LLM domain-specific architectures, AI CPU performance analysis, and computer architecture.
 
-I am also an LLM DSA intern at the [Beijing Institute of Open Source Chip](https://www.bosc.ac.cn/), where I work on hardware-aware LLM inference and kernel optimization. You can reach me at <zhanghanle25z@ict.ac.cn> or <zhanghanle21@mails.ucas.ac.cn>.
+I am also a research intern at Beijing Academy of Artificial Intelligence (BAAI), working on HG-KDA, and at the [Beijing Institute of Open Source Chip](https://www.bosc.ac.cn/), working on LLM domain-specific architectures and Mosaic. You can reach me at <zhanghanle25z@ict.ac.cn> or <zhanghanle21@mails.ucas.ac.cn>.
 
 ## Educational Background
 
@@ -18,8 +18,8 @@ I am also an LLM DSA intern at the [Beijing Institute of Open Source Chip](https
 
 ## Academic and Engineering Experience
 
-- **LLM DSA Intern, Beijing Institute of Open Source Chip (Sept. 2024 - Present):** Focused on large language model domain-specific architectures. Developed Mosaic, a microarchitectural characterization framework for LLM inference on AICPUs, using workload selection, GBDT modeling, and TreeSHAP attribution.
-- **FPGA Verification Platform Engineering Intern, Institute of Computing Technology, Chinese Academy of Sciences (July 2023 - Aug. 2023):** Developed an HLS-based LeNet DUT on a ZYNQ Sidewinder FPGA, synthesized IP with Vitis, deployed Linux, and loaded trained parameters through a custom memory-mapping program.
+- **Research Intern, Beijing Academy of Artificial Intelligence (BAAI) (Sept. 2026 - Present):** Working on HG-KDA (Hardware-Grounded Kernel Design Agent) for hardware-aware kernel optimization.
+- **Research Intern, Beijing Institute of Open Source Chip (Oct. 2024 - Present):** Focused on LLM-DSA (Domain-Specific Architecture for Large Language Models). Developed Mosaic, a microarchitectural characterization framework for LLM inference on AICPUs, using workload selection, GBDT modeling, and TreeSHAP attribution.
 
 ## Selected Projects
 
